@@ -1,0 +1,2 @@
+# seminarquantitativemethods
+Studying R
