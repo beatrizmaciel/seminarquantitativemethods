@@ -1,4 +1,4 @@
-# seminarquantitativemethods
+# Seminar in Quantitative Methods
 
 Hello, World!
 
